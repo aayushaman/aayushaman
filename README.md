@@ -13,11 +13,7 @@
 
 - 👯 I’m looking to collaborate on [BinaryBreak2024](https://github.com/aayushaman/BinaryBreak2024.git)
 
-- 🤝 I’m looking for help with [BinaryBreak2024](https://github.com/aayushaman/BinaryBreak2024.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/aayushaman](https://github.com/aayushaman)
-
-- 📝 I regularly write articles on [CTF Challenges](CTF Challenges)
 
 - 💬 Ask me about **Linux, Cyber Security**
 

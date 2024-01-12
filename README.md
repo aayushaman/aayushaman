@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/_ayushaman" target="blank"><img src="https://img.shields.io/twitter/follow/_ayushaman?logo=twitter&style=for-the-badge" alt="_ayushaman" /></a> </p>
 
-- 🔭 I’m currently working on [BinaryBreak2024](https://github.com/aayushaman/BinaryBreak2024.git)
+- 🔭 I’m currently working on [Ghostnet-Hunter](https://github.com/aayushaman/Ghostnet-Hunter.git)
 
-- 🌱 I’m currently learning **Rubber Ducky Scripting**
+- 🌱 I’m currently learning **API Security**
 
-- 👯 I’m looking to collaborate on [BinaryBreak2024](https://github.com/aayushaman/BinaryBreak2024.git)
+- 👯 I’m looking to collaborate on [Ghostnet-Hunter](https://github.com/aayushaman/Ghostnet-Hunter.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aayushaman](https://github.com/aayushaman)
 
-- 💬 Ask me about **Linux, Cyber Security**
+- 💬 Ask me about **Zsh, Bash, Python, Java, C/C++, Linux & Web Application Security**
 
 - 📫 How to reach me **amanayush666@gmail.com**
 

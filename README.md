@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aayushaman](https://github.com/aayushaman)
 
-- 💬 Ask me about **Zsh, Bash, Python, Java, C/C++, Linux & Web Application Security**
+- 💬 Ask me about **Zsh, Bash, Python, Rust, C++, Linux & API and Web Application Security**
 
 - 📫 How to reach me **amanayush666@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Ro0mvdpXSR8xWIT1OtXF46BsQNn5B_sU/edit?usp=sharing&ouid=111828838690096188997&rtpof=true&sd=true](https://docs.google.com/document/d/1Ro0mvdpXSR8xWIT1OtXF46BsQNn5B_sU/edit?usp=sharing&ouid=111828838690096188997&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I think I am into comedy a lot.**
+- ⚡ Coding fact **I love to solve challenges in C++ and Rust, with C++ being the major coding language.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

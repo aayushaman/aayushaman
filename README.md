@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_ayushaman" target="blank"><img src="https://img.shields.io/twitter/follow/_ayushaman?logo=twitter&style=for-the-badge" alt="_ayushaman" /></a> </p>
 
-- 🔭 I’m currently working on [Ghostnet-Hunter](https://github.com/aayushaman/Ghostnet-Hunter.git)
+- 🔭 I’m currently working on [Rusted-Codes](https://github.com/aayushaman/Rusted-CodingChallenges.git)
 
 - 🌱 I’m currently learning **API Security**
 

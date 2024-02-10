@@ -15,13 +15,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aayushaman](https://github.com/aayushaman)
 
-- 💬 Ask me about **Zsh, Bash, Python, GO, C++, Linux & API and Web Application Security**
+- 💬 Ask me about **Zsh, Bash, Python, Rust, C++, Linux & API and Web Application Security**
 
 - 📫 How to reach me **amanayush666@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Ro0mvdpXSR8xWIT1OtXF46BsQNn5B_sU/edit?usp=sharing&ouid=111828838690096188997&rtpof=true&sd=true](https://docs.google.com/document/d/1Ro0mvdpXSR8xWIT1OtXF46BsQNn5B_sU/edit?usp=sharing&ouid=111828838690096188997&rtpof=true&sd=true)
 
-- ⚡ Coding fact **: I love to solve challenges in GO and Python, with GO being the major coding language.**
+- ⚡ Coding fact **: I love to solve challenges in Rust and C++, with Rust being the major coding language for Challenges and Projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">Technical Skills:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushaman&show_icons=true&locale=en&layout=compact" alt="aayushaman" /></p>
 

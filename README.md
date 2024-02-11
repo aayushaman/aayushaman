@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_ayushaman" target="blank"><img src="https://img.shields.io/twitter/follow/_ayushaman?logo=twitter&style=for-the-badge" alt="_ayushaman" /></a> </p>
 
-- 🔭 I’m currently working on [I_am_Rusting](https://github.com/aayushaman/I_am_Rusting.git)
+- 🔭 I’m currently working on [John-Crickett-Coding-Challenges](https://github.com/aayushaman/John-Crickett-Coding-Challenges.git)
 
 - 🌱 I’m currently learning **API Security**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aayushaman](https://github.com/aayushaman)
 
-- 💬 Ask me about **Zsh, Bash, Python, Rust, C++, Linux & API and Web Application Security**
+- 💬 Ask me about **Linux, Zsh, C++, Rust, Python & API and Web Application Security**
 
 - 📫 How to reach me **amanayush666@gmail.com**
 
@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">Technical Skills:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.zsh.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/zsh.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cplusplus.com/doc/tutorial/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushaman&show_icons=true&locale=en&layout=compact" alt="aayushaman" /></p>
 

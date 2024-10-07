@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayush Aman</h1>
-<h3 align="center">Penetration Tester | Offensive Security Enthusiast | Rust & Linux Fan</h3>
+<h3 align="center">Penetration Tester | Offensive Security Enthusiast | Rust, Python & Linux Advocate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushaman&label=Profile%20views&color=0e75b6&style=flat" alt="aayushaman" /> </p>
 

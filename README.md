@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Linux, Zsh, Rust, Python, Red Teaming, Penetration Testing and Offensive Security**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Ro0mvdpXSR8xWIT1OtXF46BsQNn5B_sU/edit?usp=sharing&ouid=111828838690096188997&rtpof=true&sd=true](https://docs.google.com/document/d/1Ro0mvdpXSR8xWIT1OtXF46BsQNn5B_sU/edit?usp=sharing&ouid=111828838690096188997&rtpof=true&sd=true)
-
 - ⚡ Coding fact **: I love to solve challenges in Python, with Rust being the major coding language for Projects.**
 
 <h3 align="left">Connect with me:</h3>
